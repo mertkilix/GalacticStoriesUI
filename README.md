@@ -43,12 +43,4 @@ Galactic Stories is a React Native Expo app that immerses users in a galaxy of c
 - **Create a Story**: Select your preferences for voice, language, theme, and characters.
 - **View Story**: Enjoy the generated story with audio and visuals.
 
-## Contributing
-
-Interested in contributing? Great! Here's how you can help:
-
-1. **Fork the Repository**: Create your own fork and make your changes.
-2. **Submit Pull Requests**: After making changes, submit a pull request.
-3. **Report Issues / Suggest Features**: Use the Issues section to report any problems or suggest new features.
-
 
