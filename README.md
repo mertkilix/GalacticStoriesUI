@@ -23,8 +23,10 @@ Galactic Stories is a React Native Expo app that immerses users in a galaxy of c
 
 ## Screenshots
 
-
-
+![1](https://github.com/mertkilix/GalacticStoriesUI/assets/71731982/79a78e04-572d-4224-8ee1-12867c383923)
+![3](https://github.com/mertkilix/GalacticStoriesUI/assets/71731982/dbf71a78-45b6-4776-8f70-b7d19c532773)
+[5](https://github.com/mertkilix/GalacticStoriesUI/assets/71731982/689c375d-b4eb-4cca-9439-727956ffdda5)
+![2](https://github.com/mertkilix/GalacticStoriesUI/assets/71731982/a487efb7-f4ae-4ebf-a133-e9e9be913148)
 ## Installation
 
 1. **Clone the Repository**: `git clone https://github.com/mertkilix/GalacticStoriesUI.git`
@@ -45,6 +47,4 @@ Interested in contributing? Great! Here's how you can help:
 2. **Submit Pull Requests**: After making changes, submit a pull request.
 3. **Report Issues / Suggest Features**: Use the Issues section to report any problems or suggest new features.
 
-## License
 
-This project is licensed under [appropriate license], see the LICENSE file for details.
