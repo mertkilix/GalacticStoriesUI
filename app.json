@@ -1,0 +1,56 @@
+{
+  "expo": {
+    "name": "Galactic Stories",
+    "slug": "GalacticStories",
+    "version": "4.0.0",
+    "description": "Create your story",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.GalacticStories",
+      "buildNumber": "6",
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "Galactic Stories  uses microphone so you can voice interact with app."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon.png",
+      "meta": {
+        "description": "Create your story",
+        "og:title": "Galactic Stories",
+        "og:description": "You can create customized AI generated stories.",
+        "og:image": "https://galacticstories.com/icon.png",
+        "twitter:card": "https://galacticstories.com/icon.png",
+        "twitter:image": "https://galacticstories.com/icon.png",
+        "twitter:description": "You can create customized AI generated stories."
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "645b57a4-5f25-4fb7-a694-bf1064e90b66"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/645b57a4-5f25-4fb7-a694-bf1064e90b66"
+    }
+  }
+}
